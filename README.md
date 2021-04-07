@@ -9,6 +9,7 @@ I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my 
 **What I'm working on** 👨🏻‍💻
 
 - I am currently updating this readme with the most recent activities and projects so get ready and leave a **follow** to receive notifications
+- I am developing a simple personal portfolio site
 
 
 ## Get in touch 🌎:
