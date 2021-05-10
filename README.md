@@ -5,6 +5,17 @@
 I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my time discover bugs and problems on sites, applications, games and everything related to the web.
 
 
+#### Get in touch <img  width="20" height="20" src="images/world.gif">
+
+<img align="left" width="150" height="150" src="images/lb-octocat.gif"></a>
+- [info@ludovicobesana.com](mailto:info@ludovicobesana.com) :mailbox:
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <!-- WORK -->
 
 <details>
@@ -136,12 +147,6 @@ I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my 
 
 <br />
 
-#### Get in touch <img  width="20" height="20" src="images/world.gif">
-
-<img align="left" width="150" height="150" src="images/lb-octocat.gif"></a>
-- [info@ludovicobesana.com](mailto:info@ludovicobesana.com) :mailbox:
-<br />
-<br />
 
 
 
