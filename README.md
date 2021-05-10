@@ -16,8 +16,6 @@ I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my 
 
 <img align="left" width="150" height="150" src="images/lb-octocat.gif"></a>
 
-- [info@ludovicobesana.com](mailto:info@ludovicobesana.com) :mailbox:
-
 <br />
 <br />
 <br />
