@@ -62,6 +62,8 @@ I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my 
 [<img align="left" alt="woocommerce" width="36px" src="images/icons/woocommerce.png" />](https://woocommerce.com/blackcyber/)
 
 <br />
+<br />
+<br />
 
 ##### Most used Tools & IDE:
 
@@ -77,6 +79,8 @@ I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my 
 [<img align="left" alt="figma" width="36px" src="images/icons/figma.png" />](https://www.figma.com/)
 [<img align="left" alt="affinity" width="36px" src="images/icons/affinity.png" />](https://affinity.serif.com/it/)
 
+<br />
+<br />
 <br />
 
 ##### My Distro:
