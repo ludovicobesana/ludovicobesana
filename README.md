@@ -101,7 +101,7 @@ I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my 
 
 <details>
 <summary>
-  Community 🫂
+  Community 👥
 </summary>
 <br/ >
 
