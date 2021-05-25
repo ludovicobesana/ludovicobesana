@@ -130,7 +130,7 @@ I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my 
 </summary>
 <br/ >
 
-- Coming soon
+- [Introduzione a Robotframework: Test Automation per principianti](https://community.codemotion.com/coding-bunker/meetups/introduzione-a-robotframework-test-automation-per-principianti)
 
 </details>
 
