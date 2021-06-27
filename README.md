@@ -1,157 +1,41 @@
-## Hello World <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">
+<div align="center">
 
-<img src="images/cover.png" alt="Ludovico Besana">
+<img src="images/lb.png" alt="Ludovico Besana" width="150" />
 
-I'm Ludovico Besana, a QA Engineer and Full Stack Developer. I Spend most of my time discover bugs and problems on sites, applications, games and everything related to the web.
+# Ludovico Besana 
 
+"If you do one thing, do it to your full potential. If it goes well, move on to the next one, if it goes wrong who cares" 💪🏻
 
-#### Get in touch <img  width="20" height="20" src="images/world.gif">
+[![](https://img.shields.io/badge/OS-PopOS-informational?style=flat&logo=linux&logoColor=white&color=42B5C3)](https://pop.system76.com/)
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFDA4B)](https://www.python.org/)
+[![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=8DCF8C)](https://atom.io/)
 
-<img align="left" width="150" height="150" src="images/lb-octocat.gif"></a>
-- [info@ludovicobesana.com](mailto:info@ludovicobesana.com) :mailbox:
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<!-- WORK -->
+[![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://facebook.com/ludovicobesana.profiloprivato)
+[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ludovicobesana)
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/ludovicobesana)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/ludovicobesana)
 
-<details>
-<summary>
-  Work 👨🏻‍💻
-</summary>
-<br />
-
-- I am currently updating this readme with the most recent activities and projects so get ready and leave a **follow** to receive notifications
-- I am developing a simple personal portfolio site --> https://www.ludovicobesana.com/ (Still in progress tho)
-
-</details>
-
-<!-- PERSONAL IMPROVEMENTS -->
-
-<details>
-<summary>
-  Study 📚
-</summary>
-<br />
-
-- I am currently studying [Jekyll](https://jekyllrb.com/) and experimenting with different testing tools including [SoapUI](https://www.soapui.org/) and [Cypress](https://www.cypress.io/)
-
-</details>
+[![](https://img.shields.io/badge/-Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=7289da)](https://discord.gg/UDyWrds)
 
 
-<!-- TECH BACKPACK -->
-
-<details>
-<summary>
-  Backpack 🎒
-</summary>
-
-##### Most used Languages & Frameworks:
-
-[<img align="left" alt="robotframework" width="36px" src="images/icons/robot.png" />](https://robotframework.org/)
-[<img align="left" alt="selenium" width="36px" src="images/icons/selenium.png" />](https://www.selenium.dev/)
-[<img align="left" alt="html" width="36px" src="images/icons/html.png" />](https://html.spec.whatwg.org/multipage/)
-[<img align="left" alt="css" width="36px" src="images/icons/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
-[<img align="left" alt="javascript" width="36px" src="images/icons/js.png" />](https://www.javascript.com/)
-[<img align="left" alt="php" width="36px" src="images/icons/php.png" />](https://www.php.net/)
-[<img align="left" alt="python" width="36px" src="images/icons/python.png" />](https://www.python.org/)
-[<img align="left" alt="c" width="36px" src="images/icons/c.png" />](https://www.cprogramming.com/)
-[<img align="left" alt="woocommerce" width="36px" src="images/icons/woocommerce.png" />](https://woocommerce.com/blackcyber/)
-
-<br />
-<br />
-<br />
-
-##### Most used Tools & IDE:
-
-[<img align="left" alt="atom" width="36px" src="images/icons/atom-editor.png" />](https://atom.io/)
-[<img align="left" alt="nova" width="36px" src="images/icons/nova.png" />](https://nova.app/)
-[<img align="left" alt="jetbrains" width="36px" src="images/icons/jetbrains.png" />](https://www.jetbrains.com/products/#type=ide)
-[<img align="left" alt="eclipse" width="36px" src="images/icons/eclipse.png" />](https://www.eclipse.org/downloads/)
-[<img align="left" alt="gitkraken" width="36px" src="images/icons/gitkraken.png" />](https://www.gitkraken.com/)
-[<img align="left" alt="git" width="36px" src="images/icons/git.png" />](https://git-scm.com/)
-[<img align="left" alt="docker" width="36px" src="images/icons/docker.png" />](https://www.docker.com/get-started)
-[<img align="left" alt="jira software" width="36px" src="images/icons/jirasoftware.png" />](https://www.atlassian.com/it/software/jira)
-[<img align="left" alt="loom" width="36px" src="images/icons/loom.png" />](https://www.loom.com/)
-[<img align="left" alt="figma" width="36px" src="images/icons/figma.png" />](https://www.figma.com/)
-[<img align="left" alt="affinity" width="36px" src="images/icons/affinity.png" />](https://affinity.serif.com/it/)
-
-<br />
-<br />
-<br />
-
-##### My Distro:
-
-[<img align="left" alt="bigsur" width="36px" src="images/icons/bigsur.png" />](https://www.apple.com/it/macos/big-sur/)
-[<img align="left" alt="pop" width="36px" src="images/icons/pop.png" />](https://pop.system76.com/)
-[<img align="left" alt="manjaro" width="36px" src="images/icons/manjaro.png" />](https://manjaro.org/)
-[<img align="left" alt="windows10" width="36px" src="images/icons/windows10.png" />](https://www.microsoft.com/it-it/windows/get-windows-10)
-[<img align="left" alt="raspbian" width="36px" src="images/icons/raspbian.png" />](https://www.raspbian.org/)
-[<img align="left" alt="kali" width="36px" src="images/icons/kali.png" />](https://www.kali.org/)
-
-<br />
-<br />
-
-</details>
-
-<!-- COMMUNITY -->
-
-<details>
-<summary>
-  Community 👥
-</summary>
-<br/ >
-
-- [Coding Bunker](https://www.codingbunker.it)
-
-</details>
+---
 
 
-<!-- LAST VIDEO -->
+<!-- ## Coding Bunker
 
-<details>
-<summary>
-  Last Video 📺
-</summary>
-<br/ >
-
-- https://youtu.be/zXMhyyEZtng
-
-</details>
-
-<!-- EVENTS -->
-
-<details>
-<summary>
-  Events  🎫
-</summary>
-<br/ >
-
-- [Introduzione a Robotframework: Test Automation per principianti](https://community.codemotion.com/coding-bunker/meetups/introduzione-a-robotframework-test-automation-per-principianti)
-
-</details>
+<a href="https://www.codingbunker.it"><img src="images/codingbunker.png" alt="Coding Bunker"></a> -->
 
 
-<!-- GITHUB STATS -->
+<!-- ## Guides
 
-<details>
-<summary>
-  Stats :octocat:
-</summary>
-<br/ >
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ludovicobesana&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ludovicobesana&count_private=true&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=ludovicobesana&theme=dark" />
-
-</details>
-
-<br />
+- 
+- 
+- -->
 
 
+<!-- ### Donate
 
 
-<!-- <a href="https://www.buymeacoffee.com/ludovicobesana" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
+[![Donate Paypal](https://img.shields.io/badge/donate-paypal-005EA6.svg?style=for-the-badge&logo=paypal)](https://www.paypal.me/ludovicobesana) ![Donate Github Sponsors](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?style=for-the-badge&logo=github) -->
+
+</div>
