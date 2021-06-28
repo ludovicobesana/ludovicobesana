@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/lb.png" alt="Ludovico Besana" width="150" />
+<a href="https://www.ludovicobesana.com"><img src="images/lb.png" alt="Ludovico Besana" width="150" /></a>
 
 # Ludovico Besana 
 
