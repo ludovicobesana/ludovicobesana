@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://www.ludovicobesana.com"><img src="images/lb.png" alt="Ludovico Besana" width="150" /></a>
+<img src="images/lb-intro.gif">
 
-# Ludovico Besana 
+<!-- # Ludovico Besana 
 
 "If you do one thing, do it to your full potential. If it goes well, move on to the next one, if it goes wrong who cares" 💪🏻
 
@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/-Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=7289da)](https://discord.gg/UDyWrds)
 
 
----
+--- -->
 
 
 <!-- ## Coding Bunker
