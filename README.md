@@ -2,6 +2,12 @@
 
 <img src="images/lb-intro.gif">
 
+<br>
+<br>
+
+ 
+[![Ludovico Besana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ludovicobesana&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ###### Reach me on:
 
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://facebook.com/ludovicobesana.profiloprivato)
@@ -10,6 +16,9 @@
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/ludovicobesana)
 [![](https://img.shields.io/badge/-Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=7289da)](https://discord.gg/UDyWrds)
 
+  
+
+  
 <!--
 
 # Ludovico Besana 👾
