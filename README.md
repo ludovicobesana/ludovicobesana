@@ -3,11 +3,13 @@
 <img src="images/lb-intro.gif">
 
 <br>
-<br>
+<br> 
 
+<a href="https://app.daily.dev/ludovicobesana"><img src="https://api.daily.dev/devcards/b76f8f7e77b54226a173263723071d95.png?r=qx9" width="300" alt="Ludovico Besana's Dev Card"/></a>  
  
 [![Ludovico Besana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ludovicobesana&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+ 
 ###### Reach me on:
 
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://facebook.com/ludovicobesana.profiloprivato)
