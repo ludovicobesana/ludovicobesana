@@ -1,11 +1,20 @@
-<div align="center">
+<div align="center" style="background-color:black; padding:30px;">
 
 <img src="images/lb-intro.gif">
 
 <br>
 <br> 
 
+<img src="images/ludo-japan.png" width="600px">
+
+
+<br>
+<br>
+<br> 
+
 <a href="https://api.daily.dev/get?r=ludovicobesana"><img src="https://api.daily.dev/devcards/b76f8f7e77b54226a173263723071d95.png?r=qx9" width="250" alt="Ludovico Besana's Dev Card"/></a>  
+
+<br> 
  
 [![Ludovico Besana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ludovicobesana&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
