@@ -8,8 +8,6 @@
  <a href="https://youtu.be/z3Pzfi476HI"><img src="images/ludo-japan.png" width="600px"></a>
 
 
-<br>
-<br>
 <br> 
 
 <a href="https://api.daily.dev/get?r=ludovicobesana"><img src="https://api.daily.dev/devcards/b76f8f7e77b54226a173263723071d95.png?r=qx9" width="250" alt="Ludovico Besana's Dev Card"/></a>  
