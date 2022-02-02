@@ -4,7 +4,7 @@
 
 <br>
 <br> 
-
+<!--
  <a href="https://youtu.be/z3Pzfi476HI"><img src="images/ludo-japan.png" width="600px"></a>
 
 
@@ -14,7 +14,7 @@
 
 <br> 
  
-[![Ludovico Besana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ludovicobesana&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ludovico Besana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ludovicobesana&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
  
 ###### Reach me on:
