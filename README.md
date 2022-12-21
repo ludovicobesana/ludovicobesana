@@ -5,7 +5,7 @@
 <br>
 <br>
  
- [![@ludovicobesana's Holopin board](https://holopin.me/ludovicobesana)](https://holopin.io/@ludovicobesana)
+<!-- [![@ludovicobesana's Holopin board](https://holopin.me/ludovicobesana)](https://holopin.io/@ludovicobesana)-->
 <!--
  <a href="https://youtu.be/z3Pzfi476HI"><img src="images/ludo-japan.png" width="600px"></a>
 
