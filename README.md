@@ -22,4 +22,14 @@ Here are the languages, frameworks, and libraries that I'm most comfortable usin
 -   🖼️ Tailwind CSS
 -   🐋 Docker: For starting projects 
 
+Reach me on:
+<p>
+<a href="https://www.linkedin.com/in/ludovicobesana/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
+</a>&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@ludovicobesana">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
+
 Thank you for visiting my profile! 🙏
