@@ -27,9 +27,10 @@ Reach me on:
 <a href="https://www.linkedin.com/in/ludovicobesana/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
 </a>&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@ludovicobesana">
+
+<!--<a href="https://www.tiktok.com/@ludovicobesana">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 Thank you for visiting my profile! 🙏
