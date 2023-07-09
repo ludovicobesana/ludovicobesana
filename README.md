@@ -6,7 +6,6 @@ I'm a 🐧 Linux lover, but 🍎 macOS is so beautiful that it can't not be used
 
 I'm currently working on:
 -   🏦 [Banca AideXa](https://aidexa.it/): As a QA Engineer 
--   👾 [Pixelato](https://www.pixelato.it/): My clothing brand
 -   :octocat: [GitHub](https://github.com/ludovicobesana?tab=repositories): To ensure that you can find useful resources here 
 
 Here are the languages, frameworks, and libraries that I'm most comfortable using:
