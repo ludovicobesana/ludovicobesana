@@ -8,6 +8,7 @@ I'm currently working on:
 -   🏦 [Banca AideXa](https://aidexa.it/): As a QA Engineer 
 -   :octocat: [GitHub](https://github.com/ludovicobesana?tab=repositories): To ensure that you can find useful resources here 
 
+<!--
 Here are the languages, frameworks, and libraries that I'm most comfortable using:
 
 -   🐍 Python: Is my favourite language
@@ -15,13 +16,14 @@ Here are the languages, frameworks, and libraries that I'm most comfortable usin
 -   🤖 Robot Framework: For all of my testing needs (including making coffee lol)
 -   🖼️ Tailwind CSS
 -   🐋 Docker: For starting projects 
+-->
 
-<!--```js
+```js
 if awake:
   code()
 elif tired:
   drink_coffe()
-```-->
+```
 
 Reach me on:
 <p>
