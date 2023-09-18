@@ -1,3 +1,9 @@
+```js
+if awake:
+  code()
+elif tired:
+  drink_coffe()
+```
 <!--<img width="251" alt="Schermata_2023-05-22_alle_02 40 56-removebg-preview" src="https://github.com/ludovicobesana/ludovicobesana/assets/35035423/a52c05ec-cfef-4e8c-9ee4-a00d27bf0191">-->
 
 I'm a 🐞 QA Engineer and 💻 Developer who loves to automate and find bugs. 
@@ -18,12 +24,6 @@ Here are the languages, frameworks, and libraries that I'm most comfortable usin
 -   🐋 Docker: For starting projects 
 -->
 
-```js
-if awake:
-  code()
-elif tired:
-  drink_coffe()
-```
 
 Reach me on:
 <p>
