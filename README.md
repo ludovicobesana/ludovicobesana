@@ -4,6 +4,25 @@ if awake:
 elif tired:
   drink_coffe()
 ```
+
+## 📖 Latest Blog Post
+
+### [Streamline Your Mobile Testing with Maestro](https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/)
+
+<a href="https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/"><img src="https://i.imgur.com/82FpjnM.png"></a>
+
+Discover how to enhance your mobile testing workflow with Maestro, a powerful tool designed to make your testing process more efficient and effective.
+
+👉 [Read the full article](https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/)
+
+---
+
+Reach me on:
+<p>
+<a href="https://www.linkedin.com/in/ludovicobesana/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
+</a>
+
 <!--<img width="251" alt="Schermata_2023-05-22_alle_02 40 56-removebg-preview" src="https://github.com/ludovicobesana/ludovicobesana/assets/35035423/a52c05ec-cfef-4e8c-9ee4-a00d27bf0191">-->
 <!--
 I'm a 🐞 QA Engineer and 💻 Developer who loves to automate and find bugs. 
