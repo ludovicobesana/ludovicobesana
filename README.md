@@ -7,6 +7,8 @@ elif tired:
 
 ## 🎯 Upcoming Workshop
 
+![NGRome Workshop](https://i.imgur.com/R1qCSRM.png)
+
 <a href="https://pretix.eu/HintoGroup/Intersection/"><img src="https://i.imgur.com/LFDfnXm.jpeg"></a>
 
 ## 📖 Latest Blog Post
