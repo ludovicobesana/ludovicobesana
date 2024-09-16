@@ -7,6 +7,8 @@ elif tired:
 
 ## 🎯 Upcoming Workshop
 
+<a href="https://lu.ma/hpgfpo8v"><img src="https://i.imgur.com/zA6ZPci.png"></a>
+
 <a href="https://www.eventbrite.it/e/biglietti-workshop-accelerate-web-excellence-master-shift-left-testing-beginners-1009940488187"><img src="https://i.imgur.com/R1qCSRM.png"></a>
 
 <a href="https://pretix.eu/HintoGroup/Intersection/"><img src="https://i.imgur.com/LFDfnXm.jpeg"></a>
