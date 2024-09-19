@@ -13,6 +13,8 @@ elif tired:
 
 <a href="https://pretix.eu/HintoGroup/Intersection/"><img src="https://i.imgur.com/a81bgLr.png"></a>
 
+<a href="https://conferences.codemotion.com/milan2024/it/home/"><img src="https://i.imgur.com/ct5fDiv.png"></a>
+
 ## 📖 Latest Blog Post
 
 ### [Streamline Your Mobile Testing with Maestro](https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/)
