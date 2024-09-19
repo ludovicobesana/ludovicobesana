@@ -5,7 +5,7 @@ elif tired:
   drink_coffe()
 ```
 
-## 🎯 Upcoming Workshop
+## 🎯 Upcoming Events
 
 <a href="https://lu.ma/hpgfpo8v"><img src="https://i.imgur.com/zA6ZPci.png"></a>
 
