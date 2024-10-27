@@ -7,6 +7,8 @@ elif tired:
 
 ## 🎯 Upcoming Events
 
+<a href="https://devfestmilano.it/sessions/755304"><img src="https://i.imgur.com/ctMPNGp.png"></a>
+
 <a href="https://www.conf42.com/Prompt_Engineering_2024_Ludovico_Besana_promptengineering_automation_quality"><img src="https://i.imgur.com/BX1wTZT.png"></a>
 
 ## 📖 Latest Blog Post
