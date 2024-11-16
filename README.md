@@ -6,8 +6,6 @@ elif tired:
 ```
 
 ## 🎯 Upcoming Events
-<a href="https://www.conf42.com/Prompt_Engineering_2024_Ludovico_Besana_promptengineering_automation_quality"><img src="https://i.imgur.com/KzHHIn5.jpeg"></a>
-
 <a href="https://www.meetup.com/browserstack-software-testing-and-qa-meetup-group-milan/events/303935017/"><img src="https://i.imgur.com/qoPmCcJ.png"></a>
 
 <a href="https://devfestmilano.it/sessions/755304"><img src="https://i.imgur.com/ctMPNGp.png"></a>
