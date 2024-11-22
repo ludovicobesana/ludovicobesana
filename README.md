@@ -6,7 +6,6 @@ elif tired:
 ```
 
 ## 🎯 Upcoming Events
-<a href="https://www.meetup.com/browserstack-software-testing-and-qa-meetup-group-milan/events/303935017/"><img src="https://i.imgur.com/qoPmCcJ.png"></a>
 
 <a href="https://devfestmilano.it/sessions/755304"><img src="https://i.imgur.com/ctMPNGp.png"></a>
 
