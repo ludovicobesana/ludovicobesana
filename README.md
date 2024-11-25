@@ -5,10 +5,6 @@ elif tired:
   drink_coffe()
 ```
 
-## 🎯 Upcoming Events
-
-<a href="https://devfestmilano.it/sessions/755304"><img src="https://i.imgur.com/ctMPNGp.png"></a>
-
 ## 📖 Latest Blog Post
 
 ### [Streamline Your Mobile Testing with Maestro](https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/)
