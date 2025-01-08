@@ -12,6 +12,8 @@
 - 👉 [Check out our open-source projects and contribute on GitHub :octocat:](https://github.com/Coding-Bunker)
 
 ---
+## 🎯 Upcoming Events
+<a href="https://events.geekle.us/qa/"><img src="https://i.imgur.com/rZutQ1K.jpeg"></a>
 
 # 📖 Recommended Articles
 
