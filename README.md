@@ -12,6 +12,9 @@
 - 👉 [Check out our open-source projects and contribute on GitHub :octocat:](https://github.com/Coding-Bunker)
 
 ---
+## 🎯 Upcoming Events
+<a href="https://www.swtestingforum.org/index.php/it/"><img src="https://i.imgur.com/4TXrXDT.png"></a>
+
 # 📖 Recommended Articles
 
 ### [Nearform tech experts attended Codemotion 2024: Read about their experiences](https://www.nearform.com/digital-community/nearform-tech-experts-attended-codemotion-2024-read-about-their-experiences/)
