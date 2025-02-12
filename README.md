@@ -13,6 +13,8 @@
 
 ---
 ## 🎯 Upcoming Events
+<a href="https://romajs.org/it/eventi/2025-02-15-romajs-special-edition/"><img src="https://i.imgur.com/EKcExxi.jpeg"></a>
+
 <a href="https://www.swtestingforum.org/index.php/it/"><img src="https://i.imgur.com/4TXrXDT.png"></a>
 
 # 📖 Recommended Articles
