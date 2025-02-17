@@ -13,8 +13,6 @@
 
 ---
 ## 🎯 Upcoming Events
-<a href="https://www.eventbrite.com/e/biglietti-romajs-special-edition-nan-1223256566319"><img src="https://i.imgur.com/EKcExxi.jpeg"></a>
-
 <a href="https://www.swtestingforum.org/index.php/it/"><img src="https://i.imgur.com/4TXrXDT.png"></a>
 
 # 📖 Recommended Articles
