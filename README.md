@@ -13,6 +13,7 @@
 
 ---
 ## 🎯 Upcoming Events
+<a href="https://www.webdayconf.it/e/3584/Web-Day-2025"><img src="https://i.imgur.com/a6Mo4jZ.png"></a>
 <a href="https://www.swtestingforum.org/index.php/it/"><img src="https://i.imgur.com/4TXrXDT.png"></a>
 
 # 📖 Recommended Articles
