@@ -29,6 +29,7 @@ A group of Nearformers gave talks, learned from the event’s other speakers and
 ### [Streamline Your Mobile Testing with Maestro](https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/)
 
 <a href="https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/"><img src="https://i.imgur.com/82FpjnM.png"></a>
+<a href="https://www.wemakefuture.it/next/primi-speaker/"><img src="https://i.imgur.com/8OK60wv.png"></a>
 
 Discover how to enhance your mobile testing workflow with Maestro, a powerful tool designed to make your testing process more efficient and effective.
 
