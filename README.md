@@ -14,7 +14,7 @@
 ---
 ## 🎯 Upcoming Events
 <a href="https://www.swtestingforum.org/index.php/it/"><img src="https://i.imgur.com/4TXrXDT.png"></a>
-<a href="https://www.wemakefuture.it/next/primi-speaker/"><img src="https://i.imgur.com/8OK60wv.png"></a>
+<a href="https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/"><img src="https://i.imgur.com/8OK60wv.png"></a>
 
 # 📖 Recommended Articles
 
