@@ -1,4 +1,11 @@
-# 💜 Become Part of Something Great: Join <a href="https://codingbunker.it/">Coding Bunker</a>!
+# 🎉 Community Day 2025 –  See you in Milan!
+
+<a href="https://www.techcommunityday.it/"><img src="https://i.imgur.com/uWchmvY.png" alt="Community Day 2025 Cover Image"></a>
+
+### 👉 https://www.techcommunityday.it/
+
+---
+## 💜 Become Part of Something Great: Join <a href="https://codingbunker.it/">Coding Bunker</a>!
 <a href="https://www.meetup.com/coding-bunker/join/"><img src="https://www.codingbunker.it/_next/static/media/team.d110833b.png" alt="Join Coding Bunker"></a>
 
 👩‍💻 Collaborate, Learn, and Grow Together
