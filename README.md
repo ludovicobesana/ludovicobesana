@@ -21,7 +21,8 @@
 ---
 ## 🎯 Upcoming Events
 <a href="https://www.swtestingforum.org/index.php/it/"><img src="https://i.imgur.com/IotaKeS.jpeg"></a>
-<a href="https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/"><img src="https://i.imgur.com/8OK60wv.png"></a>
+<a href="https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/"><img src="https://i.imgur.com/8OK60wv.png"></a>  
+<a href="https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/"><img src="https://i.imgur.com/KHi2GlU.jpeg"></a>
 
 # 📖 Recommended Articles
 
