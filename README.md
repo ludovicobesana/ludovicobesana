@@ -1,3 +1,30 @@
+# Hi, I'm Ludovico 👋🏻
+
+<img src="images/github-cover-2025.png" alt="Banner image">
+
+## 🎯 Upcoming Events
+
+- **19 – 21 May 2025 — Software Testing Forum 2025, Milan 🇮🇹**  
+  AI-powered quality, tracks & workshops for modern QA pros.  
+  👉 [Details & registration](https://www.swtestingforum.org/index.php/it/)
+
+- **4 – 6 June 2025 — We Make Future 2025, Bologna 🌍**  
+  90+ stages on AI, dev, marketing & digital innovation.  
+ 👉 [Explore the festival](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/)
+
+- **19 June 2025 — BCS SIGiST Summer Conference 2025, London / Online 🇬🇧**  
+  Theme *Finding Calm in Chaos*: Applying Testing to a Changing World
+  👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
+
+### 📬 Let’s connect
+[Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ludovicobesana&count_private=true&theme=dark" />
+</p>
+
+
+<!--
 # 🎉 Community Day 2025 –  See you in Milan!
 
 <a href="https://www.techcommunityday.it/"><img src="https://i.imgur.com/uWchmvY.png" alt="Community Day 2025 Cover Image"></a>
@@ -18,20 +45,6 @@
 - 👉 [Join us on Meetup!](https://www.meetup.com/coding-bunker/join/)
 - 👉 [Check out our open-source projects and contribute on GitHub :octocat:](https://github.com/Coding-Bunker)
 
----
-## 🎯 Upcoming Events
-
-- **19 – 21 May 2025 — Software Testing Forum 2025, Milan 🇮🇹**  
-  AI-powered quality, tracks & workshops for modern QA pros.  
-  👉 [Details & registration](https://www.swtestingforum.org/index.php/it/)
-
-- **4 – 6 June 2025 — We Make Future 2025, Bologna 🌍**  
-  90+ stages on AI, dev, marketing & digital innovation.  
- 👉 [Explore the festival](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/)
-
-- **19 June 2025 — BCS SIGiST Summer Conference 2025, London / Online 🇬🇧**  
-  Theme *Finding Calm in Chaos*: Applying Testing to a Changing World
-  👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
 
 <!--
 # 📖 Recommended Articles
@@ -53,7 +66,7 @@ Discover how to enhance your mobile testing workflow with Maestro, a powerful to
 
 👉 [Read the full article](https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/)
 
--->
+
 ---
 
 ### Reach me on:
@@ -61,7 +74,7 @@ Discover how to enhance your mobile testing workflow with Maestro, a powerful to
 <a href="https://www.linkedin.com/in/ludovicobesana/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
 </a>
-
+-->
   <!--
 ```js
 if awake:
