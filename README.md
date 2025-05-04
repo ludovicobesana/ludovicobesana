@@ -21,7 +21,7 @@
 I'm working to ensure *all* public projects on this profile are complete, polished, and truly valuable.
 Each month, I dedicate time to one or more repositories: fixing bugs, updating dependencies, improving tests and documentation.
 
-  👉 You can follow my progress on [this public dashboard](https://github.com/users/ludovicobesana/projects/8)
+  👉 You can follow my progress by **following me on GitHub** and/or checking [this public dashboard](https://github.com/users/ludovicobesana/projects/8).
 
 ### 📬 Let’s connect
 [Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
@@ -29,7 +29,6 @@ Each month, I dedicate time to one or more repositories: fixing bugs, updating d
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ludovicobesana&count_private=true&theme=dark" />
 </p>
-
 
 <!--
 # 🎉 Community Day 2025 –  See you in Milan!
