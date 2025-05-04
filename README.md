@@ -1,6 +1,6 @@
 # Hi, I'm Ludovico 👋🏻
 
-<img src="images/github-cover-2025.png" alt="Banner image">
+<img src="images/cover-2025.png" alt="Banner image">
 
 ## 🎯 Upcoming Events
 
