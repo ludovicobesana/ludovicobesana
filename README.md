@@ -17,9 +17,11 @@
   👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
 
 
-## 🔄 Repository refresh plan 🗓️
-I’m auditing **all** my public projects: bumping deps, adding tests, rewriting docs.  
-Every month I’ll archive or merge at least **one** repo that’s outlived its purpose.  
+## 🔄 Repository refresh plan
+I'm working to ensure *all* public projects on this profile are complete, polished, and truly valuable.
+Each month, I dedicate time to one or more repositories: fixing bugs, updating dependencies, improving tests and documentation.
+
+  👉 You can follow my progress on [this public dashboard](https://github.com/users/ludovicobesana/projects/8)
 
 ### 📬 Let’s connect
 [Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
