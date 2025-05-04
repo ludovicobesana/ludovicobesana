@@ -8,7 +8,7 @@
   AI-powered quality, tracks & workshops for modern QA pros.  
   👉 [Details & registration](https://www.swtestingforum.org/index.php/it/)
 
-- **4 – 6 June 2025 — We Make Future 2025, Bologna 🌍**  
+- **4 – 6 June 2025 — We Make Future 2025, Bologna 🇮🇹**  
   90+ stages on AI, dev, marketing & digital innovation.  
  👉 [Explore the festival](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/)
 
