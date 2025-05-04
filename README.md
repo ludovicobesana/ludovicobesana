@@ -23,7 +23,7 @@
 <a href="https://www.swtestingforum.org/index.php/it/"><img src="https://i.imgur.com/IotaKeS.jpeg"></a>
 <a href="https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/"><img src="https://i.imgur.com/8OK60wv.png"></a>  
 <a href="https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/"><img src="https://i.imgur.com/KHi2GlU.jpeg"></a>
-
+  <!--
 # 📖 Recommended Articles
 
 ### [Nearform tech experts attended Codemotion 2024: Read about their experiences](https://www.nearform.com/digital-community/nearform-tech-experts-attended-codemotion-2024-read-about-their-experiences/)
@@ -42,7 +42,7 @@ A group of Nearformers gave talks, learned from the event’s other speakers and
 Discover how to enhance your mobile testing workflow with Maestro, a powerful tool designed to make your testing process more efficient and effective.
 
 👉 [Read the full article](https://www.nearform.com/digital-community/streamline-your-mobile-testing-with-maestro/)
-
+-->
 ---
 
 ### Reach me on:
