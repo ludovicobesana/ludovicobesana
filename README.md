@@ -3,6 +3,9 @@
 <img src="images/cover-github-2025-cropped.png" alt="Banner image">
 
 ## 🎯 Upcoming Events
+- **13 – 15 May 2025 — Breakpoint 2025, Online 🌐**  
+  A global event by BrowserStack focused on AI agents, the future of testing, and inclusive digital experiences.  
+  👉 [Event link](https://www.browserstack.com/events/breakpoint-2025)
 
 - **19 – 21 May 2025 — Software Testing Forum 2025, Milan 🇮🇹**  
   AI-powered quality, tracks & workshops for modern QA pros.  
