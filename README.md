@@ -3,6 +3,7 @@
 <img src="images/cover-github-2025-cropped.png" alt="Banner image">
 
 ## 🎯 Upcoming Events
+
 - **13 – 15 May 2025 — Breakpoint 2025, Online 🌐**  
   A global event by BrowserStack focused on AI agents, the future of testing, and inclusive digital experiences.  
   👉 [Event link](https://www.browserstack.com/events/breakpoint-2025)
@@ -10,6 +11,9 @@
 - **19 – 21 May 2025 — Software Testing Forum 2025, Milan 🇮🇹**  
   AI-powered quality, tracks & workshops for modern QA pros.  
   👉 [Details & registration](https://www.swtestingforum.org/index.php/it/)
+
+- **May 26 2025 – 13:30 to 14:30 - Inspirational Talk with SheTech for POLARIS project (Online) 🇮🇹**
+  Share professional journeys, studies, challenges faced, and practical advice with five high school classes. The session will open with a discussion on the importance of STEM, gender stereotypes, and equity in tech.
 
 - **4 – 6 June 2025 — We Make Future 2025, Bologna 🇮🇹**  
   90+ stages on AI, dev, marketing & digital innovation.  
@@ -19,6 +23,7 @@
   Theme *Finding Calm in Chaos*: Applying Testing to a Changing World
   👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
 
+<img src="https://github.com/user-attachments/assets/89f76880-544b-4bd7-a858-8cb120a6a13a" alt="upcoming" width="1200"/>
 
 ## 🔄 Repository refresh plan
 I'm working to ensure *all* public projects on this profile are complete, polished, and truly valuable.
