@@ -2,12 +2,11 @@
 
 <img src="images/cover-github-2025-cropped.png" alt="Banner image">
 
-## 🎯 Upcoming Events
+## 🤝 Meet Me Live
 
-- **13 – 15 May 2025 — Breakpoint 2025, Online 🌐**  
-  A global event by BrowserStack focused on AI agents, the future of testing, and inclusive digital experiences.  
-  👉 [Event link](https://www.browserstack.com/events/breakpoint-2025)
+Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
+### 🎤 Speaking At
 - **19 – 21 May 2025 — Software Testing Forum 2025, Milan 🇮🇹**  
   AI-powered quality, tracks & workshops for modern QA pros.  
   👉 [Details & registration](https://www.swtestingforum.org/index.php/it/)
@@ -24,6 +23,24 @@
   👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
 
 <img src="https://github.com/user-attachments/assets/89f76880-544b-4bd7-a858-8cb120a6a13a" alt="upcoming" width="1200"/>
+
+### 🧭 Attending
+- **May 17 2025 - Zig Day Milan, Milan 🇮🇹**
+  👉 [Programme & tickets](https://zig.day/europe/milano/)
+
+- **May 23-24-25 2025 - Offline (Learnn), Parma 🇮🇹**
+  👉 [Programme & tickets](https://learnn.com/offline/)
+
+- **June 12 2025 - Google Cloud Summit, Milan 🇮🇹**
+  👉 [Programme & tickets](https://cloudonair.withgoogle.com/events/google-cloud-summit-milan-2025)
+
+- **June 14 2025 - DevFest Vicenza 2025, Vicenza 🇮🇹**
+  👉 [Programme & tickets](https://gdg.community.dev/gdg-vicenza/)
+
+- **June 18 2025 - AWS Summit Milano, Milan 🇮🇹**
+  👉 [Programme & tickets](https://aws.amazon.com/it/events/summits/milano/)
+
+> ✉️ DM me on [LinkedIn](https://linkedin.com/in/ludovicobesana) if you’d like to connect at one of these!
 
 ## 🔄 Repository refresh plan
 I'm working to ensure *all* public projects on this profile are complete, polished, and truly valuable.
