@@ -25,9 +25,6 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 <img src="https://github.com/user-attachments/assets/89f76880-544b-4bd7-a858-8cb120a6a13a" alt="upcoming" width="1200"/>
 
 ### 🧭 Attending
-- **May 17 2025 - Zig Day Milan, Milan 🇮🇹**
-  👉 [Programme & tickets](https://zig.day/europe/milano/)
-
 - **May 23-24-25 2025 - Offline (Learnn), Parma 🇮🇹**
   👉 [Programme & tickets](https://learnn.com/offline/)
 
