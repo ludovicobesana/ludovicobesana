@@ -7,10 +7,6 @@
 Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
 ### 🎤 Speaking At
-- **19 – 21 May 2025 — Software Testing Forum 2025, Milan 🇮🇹**  
-  AI-powered quality, tracks & workshops for modern QA pros.  
-  👉 [Details & registration](https://www.swtestingforum.org/index.php/it/)
-
 - **May 26 2025 – 13:30 to 14:30 - Inspirational Talk with SheTech for POLARIS project (Online) 🇮🇹**
   Share professional journeys, studies, challenges faced, and practical advice with five high school classes. The session will open with a discussion on the importance of STEM, gender stereotypes, and equity in tech.
 
