@@ -7,9 +7,6 @@
 Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
 ### 🎤 Speaking At
-- **May 26 2025 – 13:30 to 14:30 - Inspirational Talk with SheTech for POLARIS project (Online) 🇮🇹**
-  Share professional journeys, studies, challenges faced, and practical advice with five high school classes. The session will open with a discussion on the importance of STEM, gender stereotypes, and equity in tech.
-
 - **4 – 6 June 2025 — We Make Future 2025, Bologna 🇮🇹**  
   90+ stages on AI, dev, marketing & digital innovation.  
  👉 [Explore the festival](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/)
