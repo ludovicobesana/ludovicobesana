@@ -34,6 +34,9 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 - **June 20 2025 - Community Day, Milan 🇮🇹**
   👉 [Programme & tickets](https://www.techcommunityday.it/)
 
+- **Oct 4, 5 2025 - DevFest Modena, Modena 🇮🇹**
+ 👉 [Programme & tickets](https://devfest.modena.it/)
+
 > ✉️ DM me on [LinkedIn](https://linkedin.com/in/ludovicobesana) if you’d like to connect at one of these!
 
 ## 🔄 Repository refresh plan
