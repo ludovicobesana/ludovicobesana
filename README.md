@@ -15,6 +15,10 @@ Here’s where you can find me in person (or virtually) in the coming months. If
    The AI Bug: How to Test Applications with Output
  👉 [Programme & tickets](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/)
 
+-  **16 June 2025 — Ministry of Testing Milan Meetup, Milan 🇮🇹**  
+   Write Less, Test More: Mobile automation with Maestro
+ 👉 [Programme & tickets](https://www.meetup.com/it-IT/mot-milan/events/308062631/)
+
 - **19 June 2025 — BCS SIGiST Summer Conference 2025, London / Online 🇬🇧**  
   Theme *Finding Calm in Chaos*: Applying Testing to a Changing World
   👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
