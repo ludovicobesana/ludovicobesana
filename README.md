@@ -13,7 +13,7 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 
 - **6 June 2025 — We Make Future 2025, Bologna 🇮🇹**  
    The AI Bug: How to Test Applications with Output
- 👉 [Programme & tickets](https://www.wemakefuture.it/s/67bc32de5e87e4097b578497/)
+ 👉 [Programme & tickets](https://www.wemakefuture.it/i/67e6c721ee7974851be6310e/)
 
 -  **16 June 2025 — Ministry of Testing Milan Meetup, Milan 🇮🇹**  
    Write Less, Test More: Mobile automation with Maestro
