@@ -7,10 +7,6 @@
 Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
 ### 🎤 Speaking At
-- **5 June 2025 — We Make Future 2025, Bologna 🇮🇹**  
-  Hello Darwin: Does the Gender Gap Exist? “Team Yes” vs “Team No”
- 👉 [Programme & tickets](https://www.wemakefuture.it/i/682edafcdfb761c0351c9fc6/)
-
 - **6 June 2025 — We Make Future 2025, Bologna 🇮🇹**  
    The AI Bug: How to Test Applications with Output
  👉 [Programme & tickets](https://www.wemakefuture.it/i/67e6c721ee7974851be6310e/)
