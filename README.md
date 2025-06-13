@@ -22,9 +22,6 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 <img src="https://i.imgur.com/StxLOfe.png" alt="upcoming" width="1200"/>
 
 ### 🧭 Attending
-- **June 14 2025 - DevFest Vicenza 2025, Vicenza 🇮🇹**
-  👉 [Programme & tickets](https://gdg.community.dev/gdg-vicenza/)
-
 - **June 18 2025 - AWS Summit Milano, Milan 🇮🇹**
   👉 [Programme & tickets](https://aws.amazon.com/it/events/summits/milano/)
 
