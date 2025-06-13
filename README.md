@@ -7,6 +7,10 @@
 Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
 ### 🎤 Speaking At
+- **14 June 2025 — Dev Fest Vicenza, Vicenza 🇮🇹**  
+   The AI Bug: How to Test Applications with Unpredictable Output
+ 👉 [Programme & tickets](https://devfestvicenza.it/)
+
 -  **16 June 2025 — Ministry of Testing Milan Meetup, Milan 🇮🇹**  
    Write Less, Test More: Mobile automation with Maestro
  👉 [Programme & tickets](https://www.meetup.com/it-IT/mot-milan/events/308062631/)
