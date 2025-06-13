@@ -15,7 +15,7 @@ Here’s where you can find me in person (or virtually) in the coming months. If
   Theme *Finding Calm in Chaos*: Applying Testing to a Changing World
   👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
 
-<img src="https://i.imgur.com/SGofBqu.png" alt="upcoming" width="1200"/>
+<img src="https://i.imgur.com/StxLOfe.png" alt="upcoming" width="1200"/>
 
 ### 🧭 Attending
 - **June 14 2025 - DevFest Vicenza 2025, Vicenza 🇮🇹**
