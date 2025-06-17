@@ -11,8 +11,7 @@ Here’s where you can find me in person (or virtually) in the coming months. If
   Theme *Finding Calm in Chaos*: Applying Testing to a Changing World
   👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
 
-- **October 21 - 23 2025 — CypressConf 2025, Online**  
-  👉 [Programme & tickets](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
+- **October 21 - 23 2025 — CypressConf 2025, Online**  👉 [Programme & tickets](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
 
 <img src="https://i.imgur.com/StxLOfe.png" alt="upcoming" width="1200"/>
 
