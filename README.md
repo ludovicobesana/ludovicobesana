@@ -7,11 +7,6 @@
 Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
 ### 🎤 Speaking At
-
--  **16 June 2025 — Ministry of Testing Milan Meetup, Milan 🇮🇹**  
-   Write Less, Test More: Mobile automation with Maestro
- 👉 [Programme & tickets](https://www.meetup.com/it-IT/mot-milan/events/308062631/)
-
 - **19 June 2025 — BCS SIGiST Summer Conference 2025, London / Online 🇬🇧**  
   Theme *Finding Calm in Chaos*: Applying Testing to a Changing World
   👉 [Programme & tickets](https://www.bcs.org/membership-and-registrations/member-communities/software-testing-specialist-group/conferences/bcs-sigist-summer-conference-2025/)
