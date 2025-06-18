@@ -16,9 +16,6 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 <img src="https://i.imgur.com/StxLOfe.png" alt="upcoming" width="1200"/>
 
 ### 🧭 Attending
-- **June 18 2025 - AWS Summit Milano, Milan 🇮🇹**
-  👉 [Programme & tickets](https://aws.amazon.com/it/events/summits/milano/)
-
 - **June 20 2025 - Community Day, Milan 🇮🇹**
   👉 [Programme & tickets](https://www.techcommunityday.it/)
 
