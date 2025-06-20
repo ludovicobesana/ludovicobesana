@@ -12,9 +12,6 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 <img src="https://i.imgur.com/x1qcP7z.png" alt="upcoming" width="1200"/>
 
 ### 🧭 Attending
-- **June 20 2025 - Community Day, Milan 🇮🇹**
-  👉 [Programme & tickets](https://www.techcommunityday.it/)
-
 - **Oct 4, 5 2025 - DevFest Modena, Modena 🇮🇹**
  👉 [Programme & tickets](https://devfest.modena.it/)
 
