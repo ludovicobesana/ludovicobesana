@@ -7,8 +7,8 @@
 Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
 ### 🎤 Speaking At
-- **Oct 4, 5 2025 - DevFest Modena, Modena 🇮🇹**
- 👉 [Programme & tickets](https://devfest.modena.it/)
+- **Oct 4, 5 2025 - DevFest Modena, Modena 🇮🇹** 👉 [Programme & tickets](https://devfest.modena.it/)
+- **Oct 4, 5 2025 - reactjsday 2025, Verona 🇮🇹**  👉 [Programme & tickets](https://www.reactjsday.it/)
 - **October 21 - 23 2025 — CypressConf 2025, Online**  👉 [Programme & tickets](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
 
 <img src="https://i.imgur.com/x1qcP7z.png" alt="upcoming" width="1200"/>
