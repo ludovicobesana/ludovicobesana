@@ -11,8 +11,6 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 - **Oct 16 2025 - reactjsday 2025, Verona 🇮🇹**  👉 [Programme & tickets](https://www.reactjsday.it/)
 - **October 21 - 23 2025 — CypressConf 2025, Online**  👉 [Programme & tickets](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
 
-<img src="https://i.imgur.com/x1qcP7z.png" alt="upcoming" width="1200"/>
-
 ### 🧭 Attending
 - **Oct 11 2025 - DevFest Milano, Milano 🇮🇹**
  👉 [Programme & tickets](https://devfestmilano.it/)
