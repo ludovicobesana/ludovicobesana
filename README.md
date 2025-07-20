@@ -21,7 +21,21 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 I'm working to ensure *all* public projects on this profile are complete, polished, and truly valuable.
 Each month, I dedicate time to one or more repositories: fixing bugs, updating dependencies, improving tests and documentation.
 
-  👉 You can follow my progress by **following me on GitHub** and/or checking [this public dashboard](https://github.com/users/ludovicobesana/projects/8).
+ 👉 You can follow my progress by **following me on GitHub** and/or checking [this public dashboard](https://github.com/users/ludovicobesana/projects/8).
+
+## 🏷️ Repository status labels
+To help you understand the current status of each repository at a glance, I’ve started using topics/labels directly on my repos.
+
+Here’s what they mean:
+
+- `ready` → The repository is complete, stable, and ready to use.
+- `wip` → Work in progress: features or improvements are actively being developed.
+- `idea` → Not yet started, just an idea or a skeleton project for now.
+
+## ⭐ Discover my Starred Lists
+Looking for inspiration, tools, or libraries I recommend?
+
+👉 [Check out my starred lists here](https://github.com/ludovicobesana?tab=stars)
 
 ### 📬 Let’s connect
 [Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
