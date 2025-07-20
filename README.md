@@ -26,6 +26,8 @@ Each month, I dedicate time to one or more repositories: fixing bugs, updating d
 ## ⭐ Discover my Starred Lists
 Looking for inspiration, tools, or libraries I recommend?
 
+I curate several lists of starred repositories, not only my own projects but also awesome repos from across the community.
+
 👉 [Check out my starred lists here](https://github.com/ludovicobesana?tab=stars)
 
 ### 📬 Let’s connect
