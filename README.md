@@ -23,15 +23,6 @@ Each month, I dedicate time to one or more repositories: fixing bugs, updating d
 
  👉 You can follow my progress by **following me on GitHub** and/or checking [this public dashboard](https://github.com/users/ludovicobesana/projects/8).
 
-## 🏷️ Repository status labels
-To help you understand the current status of each repository at a glance, I’ve started using topics/labels directly on my repos.
-
-Here’s what they mean:
-
-- `ready` → The repository is complete, stable, and ready to use.
-- `wip` → Work in progress: features or improvements are actively being developed.
-- `idea` → Not yet started, just an idea or a skeleton project for now.
-
 ## ⭐ Discover my Starred Lists
 Looking for inspiration, tools, or libraries I recommend?
 
