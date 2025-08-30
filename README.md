@@ -28,7 +28,7 @@ I curate several lists of starred repositories, not only my own projects but als
 👉 [Check out my starred lists here](https://github.com/ludovicobesana?tab=stars)
 
 ### 📬 Let’s connect
-[Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
+[Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [YouTube](https://www.youtube.com/@ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ludovicobesana&count_private=true&theme=dark" />
