@@ -11,6 +11,7 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 - **Oct 11 2025 - Napoli DevFest 2025, Napoli 🇮🇹**  👉 [Programme & tickets](https://www.eventbrite.it/e/napoli-devfest-2025-by-google-developer-groups-napoli-tickets-1322454008539?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
 - **Oct 16 2025 - reactjsday 2025, Verona 🇮🇹**  👉 [Programme & tickets](https://www.reactjsday.it/)
 - **October 21 - 23 2025 — CypressConf 2025, Online**  👉 [Programme & tickets](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
+- **November 8 2025 — Italian Agile Days 2025, Vicenza 🇮🇹** 👉 [Programme & tickets](https://www.agileday.it/)
 
 > ✉️ DM me on [LinkedIn](https://linkedin.com/in/ludovicobesana) if you’d like to connect at one of these!
 
