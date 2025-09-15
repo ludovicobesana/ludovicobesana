@@ -18,6 +18,8 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 
 > ✉️ DM me on [LinkedIn](https://linkedin.com/in/ludovicobesana) if you’d like to connect at one of these!
 
+[![An image of @ludovicobesana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ludovicobesana)](https://holopin.io/@ludovicobesana)
+
 ## 🔄 Repository refresh plan
 I'm working to ensure *all* public projects on this profile are complete, polished, and truly valuable.
 Each month, I dedicate time to one or more repositories: fixing bugs, updating dependencies, improving tests and documentation.
