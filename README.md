@@ -12,7 +12,7 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 - **November 8 2025 — Italian Agile Days 2025, Vicenza 🇮🇹** 👉 [Programme & tickets](https://www.agileday.it/)
 
 ### 🎙️ MC At
-- **October 14,15 2025 — Codemotion Milan 2025, Milano 🇮🇹** 👉 [Programme & tickets](https://conferences.codemotion.com/milan2025/)
+- **October 15 2025 — Codemotion Milan 2025, Milano 🇮🇹** 👉 [Programme & tickets](https://conferences.codemotion.com/milan2025/)
 
 > ✉️ DM me on [LinkedIn](https://linkedin.com/in/ludovicobesana) if you’d like to connect at one of these!
 
