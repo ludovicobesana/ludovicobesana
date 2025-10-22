@@ -7,7 +7,6 @@
 Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
 ### 🎤 Speaking At
-- **October 21 - 23 2025 — CypressConf 2025, Online**  👉 [Programme & tickets](https://cypress.registration.goldcast.io/events/5e06455f-45f2-49c3-98dd-e0ae952e79a0)
 - **November 8 2025 — Italian Agile Days 2025, Vicenza 🇮🇹** 👉 [Programme & tickets](https://www.agileday.it/)
 
 > ✉️ DM me on [LinkedIn](https://linkedin.com/in/ludovicobesana) if you’d like to connect at one of these!
