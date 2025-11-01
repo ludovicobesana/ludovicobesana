@@ -9,6 +9,9 @@ Here’s where you can find me in person (or virtually) in the coming months. If
 ### 🎤 Speaking At
 - **November 8 2025 — Italian Agile Days 2025, Vicenza 🇮🇹** 👉 [Programme & tickets](https://www.agileday.it/)
 
+### 👋 Attending
+- **November 11–14, 2025 — Web Summit, Lisbon 🇵🇹** 👉 [websummit.com](https://websummit.com/)
+
 > ✉️ DM me on [LinkedIn](https://linkedin.com/in/ludovicobesana) if you’d like to connect at one of these!
 
 [![An image of @ludovicobesana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ludovicobesana)](https://holopin.io/@ludovicobesana)
