@@ -7,7 +7,7 @@
 Here’s where you can find me in person (or virtually) in the coming months. If you’re attending one of these events, come say hi, I’d love to connect!
 
 ### 👋 Attending
-- **November 11–14, 2025 — Web Summit, Lisbon 🇵🇹** 👉 [Programme & tickets](https://websummit.com/)
+- **November 10–14, 2025 — Web Summit, Lisbon 🇵🇹** 👉 [Programme & tickets](https://websummit.com/)
 
 > ✉️ DM me on [LinkedIn](https://linkedin.com/in/ludovicobesana) if you’d like to connect at one of these!
 
