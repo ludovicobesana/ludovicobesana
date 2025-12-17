@@ -1,6 +1,6 @@
 # Hi, I'm Ludovico 👋🏻
 
-<img src="images/cover-github-2025-cropped.png" alt="Banner image">
+<img src="images/cover-github-2026-cropped.png" alt="Banner image">
 
 ```js
 if awake:
