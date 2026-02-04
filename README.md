@@ -1,6 +1,6 @@
 # Hi, I'm Ludovico 👋🏻
 
-<img src="images/cover-gh-2026.png" alt="Banner image">
+<img src="images/ludovico-besana-2026.png" alt="Banner image">
 
 ```js
 if awake:
