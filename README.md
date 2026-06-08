@@ -1,6 +1,6 @@
 # Hi, I'm Ludovico 👋🏻
 
-<img src="images/ludovico-besana-2026.png" alt="Banner image">
+<img src="images/cover-gh-2026-updated.png" alt="Banner featuring Ludovico Besana, QA Lead, speaker, and community organizer, with professional certifications and a conference speaking photo.">
 
 ```js
 if awake:
