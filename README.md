@@ -9,5 +9,8 @@ elif tired:
   drink_coffe()
 ```
 
+## 🎤 Upcoming talk
+- **Sep 22 2026 - cAIo 2026, Milano 🇮🇹** 👉 [Programme & tickets](https://ikn.it/chief-ai-officer/)
+
 ### 📬 Let’s connect
 [Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [YouTube](https://www.youtube.com/@ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
