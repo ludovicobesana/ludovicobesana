@@ -11,6 +11,7 @@ elif tired:
 
 ## 🎤 Upcoming talk
 - **Sep 22 2026 - cAIo 2026, Milano 🇮🇹** 👉 [Programme & tickets](https://ikn.it/chief-ai-officer/)
+- **Sep 30 2026 - Oracolo del Test Meetup, Milano 🇮🇹** 👉 [Programme & tickets](https://www.meetup.com/oracolo-del-test/events/315738175)
 
 ### 📬 Let’s connect
 [Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [YouTube](https://www.youtube.com/@ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
