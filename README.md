@@ -4,7 +4,7 @@
 
 **QA Lead · Speaker · Community Organizer**
 
-I work at the intersection of quality engineering, observability, and AI, helping teams build software they can trust.
+I work across quality engineering, observability, and AI to help teams make better software decisions.
 
 [Website](https://ludovicobesana.com) · [LinkedIn](https://linkedin.com/in/ludovicobesana) · [YouTube](https://www.youtube.com/@ludovicobesana) · [X / Twitter](https://x.com/ludovicobesana)
 
