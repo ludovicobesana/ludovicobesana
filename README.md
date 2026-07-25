@@ -1,17 +1,35 @@
+<div align="center">
+
 # Hi, I'm Ludovico 👋🏻
 
-<img src="images/cover-gh-2026-updated.png" alt="Banner featuring Ludovico Besana, QA Lead, speaker, and community organizer, with professional certifications and a conference speaking photo.">
+**QA Lead · Speaker · Community Organizer**
+
+I work at the intersection of quality engineering, observability, and AI, helping teams build software they can trust.
+
+[Website](https://ludovicobesana.com) · [LinkedIn](https://linkedin.com/in/ludovicobesana) · [YouTube](https://www.youtube.com/@ludovicobesana) · [X / Twitter](https://x.com/ludovicobesana)
+
+<br>
+
+<img src="images/cover-gh-2026-updated.png" alt="Ludovico Besana - QA Lead, speaker, and community organizer" width="100%">
+
+</div>
 
 ```js
 if awake:
-  code()
-elif tired:
-  drink_coffe()
+    code()
+else:
+    coffee()
 ```
 
-## 🎤 Upcoming talk
-- **Sep 22 2026 - cAIo 2026, Milano 🇮🇹** 👉 [Programme & tickets](https://ikn.it/chief-ai-officer/)
-- **Sep 30 2026 - Oracolo del Test Meetup, Milano 🇮🇹** 👉 [Programme & tickets](https://www.meetup.com/oracolo-del-test/events/315738175)
+## Next on stage 🎤
 
-### 📬 Let’s connect
-[Website](https://ludovicobesana.com) • [LinkedIn](https://linkedin.com/in/ludovicobesana) • [YouTube](https://www.youtube.com/@ludovicobesana) • [X / Twitter](https://x.com/ludovicobesana)
+| When | Where | Details |
+| :--- | :--- | :--- |
+| **22 Sep 2026** | cAIo 2026 · Milan, Italy 🇮🇹 | [Programme & tickets →](https://ikn.it/chief-ai-officer/) |
+| **30 Sep 2026** | Oracolo del Test Meetup · Milan, Italy 🇮🇹 | [Programme & tickets →](https://www.meetup.com/oracolo-del-test/events/315738175) |
+
+<div align="center">
+
+[**Explore all talks & presentations →**](https://github.com/ludovicobesana/curriculum-vitae/blob/main/sections/Talks.md)
+
+</div>
