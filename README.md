@@ -19,7 +19,7 @@ I work across quality engineering, observability, and AI to help teams make bett
 
 [**Explore all talks & presentations →**](https://github.com/ludovicobesana/curriculum-vitae/blob/main/sections/Talks.md)
 
-### Build technology that matters
+## Build technology that matters
 
 At [Doctolib](https://www.doctolib.com/), we work to make healthcare simpler and more accessible.
 
