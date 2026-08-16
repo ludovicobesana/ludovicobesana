@@ -16,7 +16,7 @@ I work across quality engineering, observability, and AI to help teams make bett
 | :--- | :--- | :--- |
 | **22 Sep 2026** | cAIo 2026 · Milan, Italy 🇮🇹 | [Programme & tickets →](https://ikn.it/chief-ai-officer/) |
 | **30 Sep 2026** | Oracolo del Test Meetup · Milan, Italy 🇮🇹 | [Programme & tickets →](https://www.meetup.com/oracolo-del-test/events/315738175) |
-| **30 Sep 2026** | DevFest Modena 2026 · Modena, Italy 🇮🇹 | [Programme & tickets →](https://devfest.modena.it/) | 
+| **3, 4 Oct 2026** | DevFest Modena 2026 · Modena, Italy 🇮🇹 | [Programme & tickets →](https://devfest.modena.it/) | 
 
 [**Explore all talks & presentations →**](https://github.com/ludovicobesana/curriculum-vitae/blob/main/sections/Talks.md)
 
