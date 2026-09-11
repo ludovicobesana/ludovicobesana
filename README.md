@@ -26,6 +26,7 @@ A local-first, account-free tracker for movies, TV, books, manga, anime, and mor
 | When | Where | Details |
 | :--- | :--- | :--- |
 | **22 Sep 2026** | cAIo 2026 · Milan, Italy 🇮🇹 | [Programme & tickets →](https://ikn.it/chief-ai-officer/) |
+| **23 Sep 2026** | BrowserStack Meetup · Milan, Italy 🇮🇹 | [Programme & tickets →](https://luma.com/browse-jdvr) |
 | **30 Sep 2026** | Oracolo del Test Meetup · Milan, Italy 🇮🇹 | [Programme & tickets →](https://www.meetup.com/oracolo-del-test/events/315738175) |
 | **3, 4 Oct 2026** | DevFest Modena 2026 · Modena, Italy 🇮🇹 | [Programme & tickets →](https://devfest.modena.it/) | 
 
