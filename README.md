@@ -29,6 +29,8 @@ A local-first, account-free tracker for movies, TV, books, manga, anime, and mor
 | **23 Sep 2026** | BrowserStack Meetup · Milan, Italy 🇮🇹 | [Programme & tickets →](https://luma.com/browse-jdvr) |
 | **30 Sep 2026** | Oracolo del Test Meetup · Milan, Italy 🇮🇹 | [Programme & tickets →](https://www.meetup.com/oracolo-del-test/events/315738175) |
 | **3, 4 Oct 2026** | DevFest Modena 2026 · Modena, Italy 🇮🇹 | [Programme & tickets →](https://devfest.modena.it/) | 
+| **6 Oct 2026** | StackConnect Europe (Zurich) Edition · Zurich, Switzerland 🇨🇭| [Programme & tickets →](https://www.browserstack.com/events/stackconnect-world-tour-zurich-october-2026) | 
+| **28, 29 Oct 2026** | MC at Codemotion Milan 2026 · Milan, Italy 🇮🇹| [Programme & tickets →](https://conferences.codemotion.com/milan/) | 
 
 [**Explore all talks & presentations →**](https://github.com/ludovicobesana/curriculum-vitae/blob/main/sections/Talks.md)
 
