@@ -25,7 +25,6 @@ A local-first, account-free tracker for movies, TV, books, manga, anime, and mor
 
 | When | Where | Details |
 | :--- | :--- | :--- |
-| **28, 29 Oct 2026** | MC at Codemotion Milan 2026 · Milan, Italy 🇮🇹| [Programme & tickets →](https://conferences.codemotion.com/milan/) | 
 | **27, 28 Nov 2026** | Devfest Alps 2026 · Torino, Italy 🇮🇹| [Programme & tickets →](https://devfestalps.gdgtorino.it/) | 
 
 [**Explore all talks & presentations →**](https://github.com/ludovicobesana/curriculum-vitae/blob/main/sections/Talks.md)
